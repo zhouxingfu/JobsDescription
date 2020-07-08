@@ -90,8 +90,8 @@ __建信金科__
 
 __Pony.AI__
 
-1. CUDA/GPU/OpenCL
-2. Caffee/Tensorflow
+1. _CUDA/GPU/OpenCL_
+2. _Caffee/Tensorflow_
 
 __北京东方贝特__
 1. _并行优化 并行框架 MPI、GPU 数值模式_
